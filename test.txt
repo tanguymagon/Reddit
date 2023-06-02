@@ -1,0 +1,37 @@
+Projet innovation data IA projet GEN AI sur les états financiers - des notes automatisés pour des 
+Benchmarks 
+
+Les états financiers bilan compte de résultats , des clients des banques 
+
+Avec l'orga : toute les BP et les caisses qui recoltent les états financiers - SI différents et bilan dépouillé et stockeé de manière différentes, bilan qui ne se ressemblent pas du tout - 
+Ezmbetant client partagé - bilan différents - en central c'est le bordel
+
+Usage données qui utilise les données financières, pour déterminer un PE -- CA
+
+Données base bilan en central, tous les inputs des BP
+Système de notation - pas plugué sur la base bilan 
+
+Prince Natixis et BPCE se sont rapprochées - étudier la convergence des SI entre Nat et BPCE, on rassemble tout
+Initiatives lancées - 
+Le programme états financiers couvre l'ensemble des états financiers
+
+Projet 1
+Harmoniser le sourcing des bilans et compte de résultats -font appel à des providers pour avoir des providers
+Acquisition groupe pour tous les établissements - s'occupe de faire les RFI avec les providers 
+
+Projet 2
+Normalisation des canva pour dépouiller les bilans - états financiers french - modèle qui sont figés - pas de modèle standardisé pour les bilans, pour le groupe on va réussir à normaliser, on dépouillerait - tous les indicateurs financiers aussi, les seuils intermédiaires, la définition n'est pas la même
+
+Projet 3
+Volet SI de fusion des bases de remonter en local, les bleus et rouge ont des SI diff et le but c'est d'avoir
+
+Projet 4
+Agrégateur, base bilan consolidés, nouvelle base bilan groupe normalisée, pas mal d'usage IA générative, comment est-ce qu'on utilise l'IA
+
+Il y a un ou deux mois Canvas - 
+Base bilan groupe - mine d'or d'information pluguer sur la base bilan groupe - assistant virtuel - l'ensemble des bilans montre que les secteurs se portent bien, faciliter sur une vision sectorielle 
+Sur toutes les pharmacies sur l'ile de France, comment les évaluer dans la moyenne
+
+Tourné autour des analyses 
+Les autres banques ?? Initiatives Benchmark 
+Par contre - 
